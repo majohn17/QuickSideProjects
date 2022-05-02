@@ -1,7 +1,0 @@
-C:\Desktop\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
-C:\Desktop\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
-C:\Desktop\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
-C:\Desktop\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
-C:\Desktop\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
-C:\Desktop\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
-C:\Desktop\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
